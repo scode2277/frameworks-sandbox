@@ -925,5 +925,18 @@
     "role": "author of article",
     "description": "Co-author of the OpenZeppelin Security Council Best Practices guide",
     "badges": []
+  },
+  "sarninja-cpu": {
+    "slug": "sarninja-cpu",
+    "name": "Ninja",
+    "avatar": "https://avatars.githubusercontent.com/sarninja-cpu",
+    "github": "https://github.com/sarninja-cpu",
+    "twitter": null,
+    "website": null,
+    "company": "MyCompany",
+    "job_title": "Researcher",
+    "role": "contributor",
+    "description": "I research and apply",
+    "badges": []
   }
 }

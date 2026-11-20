@@ -151,6 +151,7 @@ const config = {
             },
             { text: 'Repository Hardening', link: '/devsecops/repository-hardening' },
             { text: 'Security Testing', link: '/devsecops/security-testing' },
+            { text: 'Ciao', link: '/devsecops/ciao', dev: true },
           ]
         },
         {
