@@ -138,6 +138,7 @@ const config = {
             { text: 'Continuous Integration and Deployment', link: '/devsecops/continuous-integration-continuous-deployment' },
             { text: 'Data Security Checklist', link: '/devsecops/data-security-upgrade-checklist' },
             { text: 'Governance Proposal Security Across the SDLC', link: '/devsecops/governance-proposal-security' },
+            { text: 'Manners', link: '/devsecops/manners', dev: true },
             { text: 'Integrated Development Environments', link: '/devsecops/integrated-development-environments' },
             {
               text: 'Policy as Code',
