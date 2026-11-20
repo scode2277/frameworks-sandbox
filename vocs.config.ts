@@ -608,6 +608,7 @@ const config = {
               dev: true,
             },
             { text: 'Security Training', link: '/user-team-security/security-training', dev: true },
+            { text: 'Team best practises', link: '/user-team-security/team-best-practises', dev: true },
           ]
         },
         {
